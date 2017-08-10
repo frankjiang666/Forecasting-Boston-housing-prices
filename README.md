@@ -2,8 +2,7 @@
 
 机器学习入门模型评估与验证课程和预测波士顿房价项目&amp;Udacity MLND Model validation and prediction
 
-# 项目1：模型评估与验证
-## 波士顿房价预测
+## 项目：模型评估与验证波士顿房价预测(机器学习入门P5)
 
 #### 这个项目需要安装**Python 2.7**和以下的Python函数库：
 
